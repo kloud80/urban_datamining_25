@@ -13,7 +13,7 @@
 
 
 ---
-[기계학습 가으이안](https://raw.githubusercontent.com/kloud80/urban_datamining_25/refs/heads/main/02%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4%EC%99%80%20%EC%95%99%EC%83%81%EB%B8%94/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5.pptx)
+[기계학습 강의안](https://raw.githubusercontent.com/kloud80/urban_datamining_25/refs/heads/main/02%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4%EC%99%80%20%EC%95%99%EC%83%81%EB%B8%94/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5.pptx)
 
 [04 의사결정나무 강의안](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/02%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4%EC%99%80%20%EC%95%99%EC%83%81%EB%B8%94/04_Dtree.ipynb)
 
