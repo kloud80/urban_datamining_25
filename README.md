@@ -28,7 +28,7 @@
 
 [09 인공신경망](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/09%20NeuralNetwork.ipynb)
 
-[10 DeepNN](https://colab.research.google.com/github/kloud80/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/10%20DeepNN.ipynb)
+[10 DeepNN](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/10%20DeepNN.ipynb)
 
 
 
