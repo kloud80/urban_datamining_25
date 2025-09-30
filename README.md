@@ -21,3 +21,15 @@
 
 [06 Boosting](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/02%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4%EC%99%80%20%EC%95%99%EC%83%81%EB%B8%94/06_Boosting.ipynb)
 
+---
+[07 SLP](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/07%20SLP.ipynb)
+
+[08 MLP](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/08%20MLP.ipynb)
+
+[09 인공신경망](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/09%20NeuralNetwork.ipynb)
+
+[10 DeepNN](https://colab.research.google.com/github/kloud80/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/10%20DeepNN.ipynb)
+
+
+
+
