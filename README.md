@@ -31,5 +31,15 @@
 [10 DeepNN](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/03%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/10%20DeepNN.ipynb)
 
 
+---
+[11 ConvolutionLayer](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/04%20CNN/11%20ConvolutionLayer.ipynb)
+
+[12 이미지구조](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/04%20CNN/12%20이미지구조.ipynb)
+
+[13 Conv2D](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/04%20CNN/13%20Conv2D.ipynb)
+
+[14 건물외벽학습](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/04%20CNN/14%20건물외벽학습.ipynb)
+
+
 
 
