@@ -41,5 +41,19 @@
 [14 건물외벽학습](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/04%20CNN/14%20건물외벽학습.ipynb)
 
 
+---
+[15 LENET](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/05%20CNN2/15%20LENET.ipynb)
+
+[16 AlexNet](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/05%20CNN2/16%20AlexNet(2012).ipynb)
+
+[17 CNN SOTA](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/05%20CNN2/17%20CNN_SOTA.ipynb)
+
+[18 CNN 활용](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/05%20CNN2/18%20CNN_application.ipynb)
+
+[19 Detection](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/05%20CNN2/19%20YOLO.ipynb)
+
+[20 Segmentation](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/05%20CNN2/20%20Unet.ipynb)
+
+
 
 
