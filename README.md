@@ -68,5 +68,12 @@
 
 
 
+---
+[22 Time Series](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/07%20Time%20Series/22%20timeseries.ipynb)
+
+[23 NN Time Sereis](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/07%20Time%20Series/23%20NN_timeseries.ipynb)
+
+[24 CNNLSTM ConvLSTM2D](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/07%20Time%20Series/24%20CNN_LSTM.ipynb)
+
 
 
