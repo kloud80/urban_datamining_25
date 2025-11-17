@@ -76,4 +76,11 @@
 [24 CNNLSTM ConvLSTM2D](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/07%20Time%20Series/24%20CNN_LSTM.ipynb)
 
 
+---
+[25 언어모델](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/08%20Attention/25%20언어모델.ipynb)
 
+[26 Seq2Seq](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/08%20Attention/26%20Seq2Seq.ipynb)
+
+[27 Attention](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/08%20Attention/27%20attention.ipynb)
+
+[28 GPT](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/08%20Attention/28%20GPT.ipynb)
