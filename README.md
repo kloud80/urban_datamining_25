@@ -84,3 +84,15 @@
 [27 Attention](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/08%20Attention/27%20attention.ipynb)
 
 [28 GPT](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/08%20Attention/28%20GPT.ipynb)
+
+
+
+
+---
+[29 LLM](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/09%20LLM/29%20LLM.ipynb)
+
+[30 RAG](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/09%20LLM/30%20LLM%20RAG.ipynb)
+
+[31 Vector DB](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/09%20LLM/31%20LLAMA%20INDEX.ipynb)
+
+[32 VLM](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/09%20LLM/32%20VLM.ipynb)
