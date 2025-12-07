@@ -96,3 +96,17 @@
 [31 Vector DB](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/09%20LLM/31%20LLAMA%20INDEX.ipynb)
 
 [32 VLM](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/09%20LLM/32%20VLM.ipynb)
+
+
+
+
+---
+[33 Association](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/11%20CF%20RL/33%20Association%20TFIDF.ipynb)
+
+[34 Collaborate Filtering](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/11%20CF%20RL/34%20CollaborateFiltering.ipynb)
+
+[35 GNN](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/11%20CF%20RL/35%20GCN.ipynb)
+
+[36 Reinforcement Learning](https://colab.research.google.com/github/kloud80/urban_datamining_25/blob/main/11%20CF%20RL/36%20ReinforcementLearning.ipynb)
+
+
